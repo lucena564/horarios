@@ -1,0 +1,4 @@
+flask
+flask-limiter  # Para limitar requisições e prevenir ataques DDoS
+pyjwt  # Para autenticação com tokens JWT
+gunicorn  # Para um servidor de produção eficiente
